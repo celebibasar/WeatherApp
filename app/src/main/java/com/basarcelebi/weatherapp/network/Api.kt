@@ -1,5 +1,6 @@
 package com.basarcelebi.weatherapp.network
 
+import com.basarcelebi.weatherapp.models.DailyForecast
 import com.basarcelebi.weatherapp.models.DailyForecasts
 import com.basarcelebi.weatherapp.models.HourlyForecast
 import com.basarcelebi.weatherapp.models.Location

@@ -1,9 +1,11 @@
 package com.basarcelebi.weatherapp.repositories
 
 import com.basarcelebi.weatherapp.models.BaseModel
+import com.basarcelebi.weatherapp.models.DailyForecast
 import com.basarcelebi.weatherapp.models.DailyForecasts
 import com.basarcelebi.weatherapp.models.HourlyForecast
 import com.basarcelebi.weatherapp.models.Location
+import com.basarcelebi.weatherapp.network.APIKEY
 import com.basarcelebi.weatherapp.network.Api
 import retrofit2.Response
 

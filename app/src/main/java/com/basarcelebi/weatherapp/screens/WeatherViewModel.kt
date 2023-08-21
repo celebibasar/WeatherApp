@@ -2,8 +2,8 @@ package com.basarcelebi.weatherapp.screens
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import androidx.lifecycle.viewmodel.compose.viewModel
 import com.basarcelebi.weatherapp.models.BaseModel
+import com.basarcelebi.weatherapp.models.DailyForecast
 import com.basarcelebi.weatherapp.models.DailyForecasts
 import com.basarcelebi.weatherapp.models.HourlyForecast
 import com.basarcelebi.weatherapp.repositories.WeatherRepo
@@ -33,11 +33,10 @@ class WeatherViewModel:ViewModel(),KoinComponent {
     }
     fun getDailyForecast(locationKey:String){
         viewModelScope.launch {
-            repo.getDailyForecast(locationKey).also { data->
+            repo.getDailyForecast(locationKey).also {data->
                 _dailyForecast.update { data }
             }
         }
-
     }
 
 }
