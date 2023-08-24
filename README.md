@@ -39,8 +39,7 @@ Various cities were tried and the app works correctly.
 ## Video from the App
 
 
-https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/10fecebd-21e4-491d-99ab-3cf58274b718
-
+https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/4b3aa6e2-9e8d-458b-b771-7be3440e793e
 
 
 ## Authors
