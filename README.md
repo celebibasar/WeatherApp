@@ -29,6 +29,12 @@ Various cities were tried and the app works correctly.
   - Kotlin
   - Jetpack Compose
 
+## Screenshots from the App
+![Screenshot_20230824_200453](https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/9fa9e52f-f14c-45fd-9345-4196a4b548f5)
+![Screenshot_20230824_200438](https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/1e814e38-271c-4e93-abf2-980ac27495aa)
+![Screenshot_20230824_200426](https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/e0b4e806-e864-47ae-a82a-ae6e6fdaf3e8)
+![Screenshot_20230824_200400](https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/5418f396-1708-472b-be5a-98e259c9163f)
+
 
 ## Authors
 
