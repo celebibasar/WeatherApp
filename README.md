@@ -31,10 +31,15 @@ Various cities were tried and the app works correctly.
 
 ## Screenshots from the App
 
-<img src="https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/9fa9e52f-f14c-45fd-9345-4196a4b548f5" width="200" height="400" />
+<img src="https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/5418f396-1708-472b-be5a-98e259c9163f" width="200" height="400" />
 <img src="https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/1e814e38-271c-4e93-abf2-980ac27495aa" width="200" height="400" />
 <img src="https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/e0b4e806-e864-47ae-a82a-ae6e6fdaf3e8" width="200" height="400" />
-<img src="https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/5418f396-1708-472b-be5a-98e259c9163f" width="200" height="400" />
+<img src="https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/9fa9e52f-f14c-45fd-9345-4196a4b548f5" width="200" height="400" />
+
+## Video from the App
+
+
+https://github.com/celebibasar/WeatherApp_Compose/assets/75533431/10fecebd-21e4-491d-99ab-3cf58274b718
 
 
 
